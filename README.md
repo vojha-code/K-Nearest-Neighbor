@@ -14,3 +14,11 @@ Output:<br>
   List of actual and predicted class<br>
   Accuracy
   
+More on supervised learnining:
+
+Please refer to the  papers included with this contribution for details of this software.
+
+![](https://github.com/VarunKumarOjha/Neural-Network-Predictor/blob/master/mh_nn_glim.png)
+## Metaheuristic design of feedforward neural networks: A review of two decades of research
+VK Ojha, A Abraham, V Snášel - Engineering Applications of Artificial Intelligence, 2017<br>
+https://doi.org/10.1016/j.engappai.2017.01.013
